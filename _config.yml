@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://jekyller.github.io/vitae
+url: https://emspot.github.io/ImohEdet.github.io/
 author: Fábio Madeira
 
 # edit this section with your information
@@ -18,7 +18,7 @@ title: Imoh Edet CV
 name: Imoh Edet
 email: imohdt06@gmail.com
 email_full: mailto:imohdt06@gmail.com
-website: github.io/sustain
+website: ImohEdet.github.io
 website_full: https://emspot.github.io/ImohEdet.github.io/
 github: trending
 twitter: twitter
